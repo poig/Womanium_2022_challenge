@@ -3,11 +3,7 @@
 ## team name: Schrodinger's kittens 
 team member: Tan Jun Liang
 - [ ] [Green Qupermarket - Technical Focus (Deloitte)](https://github.com/womanium-quantum/Green-Qupermarket-Technical-Focus---Deloitte)ready to start✅
-- [ ] [Quantum Natural Language Processing with lambeq (Quantinuum)](https://github.com/womanium-quantum/Quantum-Natural-Language-Processing-with-lambeq---Quantinuum)need to write a report. finish first overview, can proceed going deeper in custom ansatz for better accuracy, try different reader and better rewriting, Can QNLP offer the possibility to build interpretable systems? Or just start write a report about it. ✅
+- [x] [Quantum Natural Language Processing with lambeq (Quantinuum)](https://github.com/womanium-quantum/Quantum-Natural-Language-Processing-with-lambeq---Quantinuum)need to write a report. finish first overview, can proceed going deeper in custom ansatz for better accuracy, try different reader and better rewriting, Can QNLP offer the possibility to build interpretable systems? Or just start write a report about it. ✅
 - [x] [Digital-analog Variational Quantum Eigensolver (IQM)](https://github.com/iqm-finland/iqm-academy-womanium-hackathon-DAQC-VQE)complete task to get full score.
 
-extra for learning perpose(by order):
-- [ ] [World-class-Quantum-chemistry-with-TKET---Quantinuum](https://github.com/womanium-quantum/World-class-Quantum-chemistry-with-TKET---Quantinuum) take ibm quantum challenge and QPARC as a reference for further research for a best ansatz to optimize the ground state.
-- [ ] [Random-number-generation-using-boson-sampling---ORCA-Computing](https://github.com/womanium-quantum/Random-number-generation-using-boson-sampling---ORCA-Computing) still to be determine path to research. nice related [boardcast](https://sectigo.com/resource-library/root-causes-1-57-quantum-random-number-generation)
-- [ ] [Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden](https://github.com/womanium-quantum/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden)  may be can looking back to pennylane coding challenge and qiskit-network [reference](https://github.com/mgg39/qiskit-networks/discussions/14) for exploring.
-- [ ] [Quantum-approximate-optimisation-algorithms-for-real-world-scenarios---Strangeworks](https://github.com/womanium-quantum/Quantum-approximate-optimisation-algorithms-for-real-world-scenarios---Strangeworks/blob/main/Intro.ipynb) maybe previous ibm quantum challenge top score as a direction for research a solution.
+experience: worse hackathon ever, team member all dissapear with no repsonse.
