@@ -1,0 +1,7 @@
+cirq
+qiskit
+qiskit_aer
+qiskit_optimization
+networkx
+numpy
+pylatexenc
